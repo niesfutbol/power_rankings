@@ -14,7 +14,8 @@ all: check coverage mutants
 		tests
 
 module = power_rankings
-codecov_token = 6c56bccb-1758-4ed9-8161-97c845591c26
+codecov_token = d3a149d6-b354-4880-9946-47864935c4f4
+
 
 define lint
 	pylint \
